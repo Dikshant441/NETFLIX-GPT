@@ -1,7 +1,7 @@
 # Netflix gpt
 
-create reactapp
-configure Tailwind css
+-create reactapp
+-configure Tailwind css
 
 # Features
 - Login/ sing up
@@ -17,4 +17,3 @@ configure Tailwind css
 NetflixGPT
     -SearchBar
     - Movie suggection
-    
