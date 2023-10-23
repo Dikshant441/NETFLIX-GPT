@@ -1,10 +1,11 @@
+import Body from "./Components.js/Body";
+import Browse from "./Components.js/Browse";
 
-import './App.css';
 
 function App() {
   return (
-    <div className="font-bold mx-20">
-      My reacxt app xjncjdfjbfujhb
+    <div >
+      <Body/>
     </div>
   );
 }
